@@ -42,7 +42,7 @@ Olá! Sou **Milchedson Holanda**, um entusiasta da tecnologia com ampla experiê
 
 ## 🌐 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/milchedson-holanda/))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milchedson-holanda/)  
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:milchedsonholanda@gmail.com)  
 
 ---

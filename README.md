@@ -49,7 +49,7 @@ Olá! Sou **Milchedson Holanda**, um entusiasta da tecnologia com ampla experiê
 
 ## 🛠 Tecnologias & Ferramentas
 
-![AWS](ttps://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-yellow?style=flat-square&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows&logoColor=white)
